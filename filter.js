@@ -12,7 +12,7 @@ data = [
         name:"Black Cap Iphone SE",
         img:"https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQKrwRN6hdfG0Qq5zuZAzW8-k8s0i_m8-fO_vbKkeuodyD-fmOvZlcMkw7DzKEW3Gj5Epw&usqp=CAU",
         price:20,
-        color:"Back",
+        color:"Black",
 
     },
     {
